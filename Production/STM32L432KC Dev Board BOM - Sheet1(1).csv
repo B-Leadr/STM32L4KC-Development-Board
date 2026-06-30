@@ -1,0 +1,17 @@
+Part Number,Description,Manufacturer,Package,Designator,Quantity,Price,Real Price,URL
+AMS1117-3.3,IC REG LINEAR 3.3V 1A SOT-223-3L,EVVO,SOT-223-3L,U1,1,$0.30,$0.30,https://www.digikey.com/en/products/detail/evvo/ams1117-3-3/22482148?_gl=1*vpnzmj*_up*MQ..*_gs*Nw..&gclid=450628173448153ff6e14222adb8d0de&gclsrc=3p.ds
+USB4135-GF-A,USB C REC GF RA 6P SMT & SMT SHE,GCT,,J1,1,$0.68,$0.68,https://www.digikey.com/en/products/detail/gct/USB4135-GF-A/16036137?s=N4IgTCBcDaIKoGUBCAWAjAZgKwFoDiAYjgIIgC6AvkA
+STM32L432KCU6,IC MCU 32BIT 256KB FLSH 32UFQFPN,STMicroelectronics,,U2,1,$5.20,$5.20,https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L432KCU6/6132749
+ABS07-32.768KHZ-T,CRYSTAL 32.7680KHZ 12.5PF SMD,Abracon LLC,,Y1,1,$0.61,$0.61,https://www.digikey.com/en/products/detail/abracon-llc/ABS07-32-768KHZ-T/1236858
+MJTP1243,SWITCH TACTILE SPST-NO 0.05A 12V,APEM Inc.,,SW1,1,$0.42,$0.42,https://www.digikey.com/en/products/detail/apem-inc/MJTP1243/1798039?s=N4IgTCBcDaILICkAqAFAjGALAZhAXQF8g
+OS102011MS2QN1,SWITCH SLIDE SPDT 100MA 12V,C&K,,SW2,1,$0.80,$0.80,https://www.digikey.com/en/products/detail/c-k/OS102011MS2QN1/411602
+CL21B104KBCNNNC,CAP CER 0.1UF 50V X7R 0805,Samsung Electro-Mechanics,805,"C1, C2, C3",3,$0.10,$0.30,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661
+CL21A475KAQNNNE,CAP CER 4.7UF 25V X5R 0805,Samsung Electro-Mechanics,805,C4,1,$0.11,$0.11,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902
+CL21A106KQFNNNE,CAP CER 10UF 6.3V X5R 0805,Samsung Electro-Mechanics,805,C5,1,$0.10,$0.10,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KQFNNNE/3886780
+CL21A226KQCLRNC,CAP CER 22UF 6.3V X5R 0805,Samsung Electro-Mechanics,805,C6,1,$0.14,$0.14,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A226KQCLRNC/5961171
+CC0805JPNPO9BN150,CAP CER 15PF 50V C0G/NPO 0805,YAGEO,805,"C7, C8",2,$0.10,$0.20,https://www.digikey.com/en/products/detail/yageo/CC0805JPNPO9BN150/11491074
+RC0805FR-0710KL,RES 10K OHM 1% 1/8W 0805,YAGEO,805,R1,1,$0.10,$0.10,https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535
+RC0805JR-075K1L,RES 5.1K OHM 5% 1/8W 0805,YAGEO,805,"R3, R4, R5, R6",4,$0.10,$0.40,https://www.digikey.com/en/products/detail/yageo/RC0805JR-075K1L/728338
+61301211121,CONN HEADER VERT 12POS 2.54MM,Würth Elektronik,,"J3, J4",2,$0.54,$1.08,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61301211121/4846844
+861400041LO1705LF,CONN HEADER R/A 4POS 2.54MM,Amphenol ICC (FCI),,J2,1,$0.11,$0.11,https://www.digikey.com/en/products/detail/amphenol-cs-fci/861400041LO1705LF/4414079
+,,,,,,,$10.55,
